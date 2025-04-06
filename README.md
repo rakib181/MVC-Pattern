@@ -1,2 +1,3 @@
 # MVC - Model View Controller 
-<p>Most conventional way to create a websit.</p>
+<p>Most conventional way to create a website.</p>
+
